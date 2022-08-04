@@ -1,3 +1,6 @@
+
+// Controls the base of device and calculates directions based on number of players
+
 const int servoPin = 16;  /* GPIO16 */
 
 int dutyCycle = 0;
