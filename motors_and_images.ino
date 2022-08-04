@@ -1,16 +1,6 @@
 
-/*
-  Rui Santos
-  Complete project details at Complete project details at https://RandomNerdTutorials.com/esp32-http-get-post-arduino/
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files.
-
-  The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.
-*/
-
 // deals a card on a button press 
+// coordinates timing of photo from ESP32-CAM and motors so that the motors hold the card out enough for a photo, and then deals it
 // this works, but it just turns them both on after you press the button and its at full speed cuz we digital wrote the enable pins to high
 
 #include "esp_camera.h"
