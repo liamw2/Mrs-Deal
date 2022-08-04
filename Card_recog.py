@@ -1,3 +1,6 @@
+
+# Python code to identify the card based on the photo sent by the ESP32-CAM
+
 import tornado.ioloop
 import tornado.web
 import cv2 as cv
