@@ -1,13 +1,3 @@
-/*
-  Rui Santos
-  Complete project details at Complete project details at https://RandomNerdTutorials.com/esp32-http-get-post-arduino/
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files.
-
-  The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.
-*/
 
 // final code that we ran for ee327 (previously named "this fucker")
 
