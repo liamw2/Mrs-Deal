@@ -1,7 +1,6 @@
 
 // combining the dealing (dc motor code: deal_w_button_timing) and the image capture (code: wed7pm)
 
-
 #include "esp_camera.h"
 #include <WiFi.h>
 #include <HTTPClient.h>
